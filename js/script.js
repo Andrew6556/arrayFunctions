@@ -69,8 +69,10 @@
 //                 {name: 'John', id: 200, marks : 45 },
 //                 {name: 'Wick', id: 115, marks : 75 },]
 
+// let best_users = users.filter(user => user.marks > 50).map(user => user.marks +=15)
+// console.log(`Кол-во лучших студентов ${best_users.length}`)
 // ____________________item_10___________________________
 
-let list_numbers = [[1, 2, 3], [4, 5, 6], [7, 8, 9]];
-let upgrade_list = [].concat(list_numbers[0],list_numbers[1],list_numbers[2]);
-console.log(upgrade_list)
+// let list_numbers = [[1, 2, 3], [4, 5, 6], [7, 8, 9]];
+// let upgrade_list = [].concat(list_numbers[0],list_numbers[1],list_numbers[2]);
+// console.log(upgrade_list)
