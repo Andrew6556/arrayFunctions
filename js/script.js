@@ -48,3 +48,7 @@
 // ____________________item_5____________________________
 
 // console.log([5, 6, 7, 8, 9].map(item=>item**2))
+
+// ____________________item_6____________________________
+let letter = ['aaa', 'aaaqqq', 'zzzqq', 'zz', 'qsaa', 'q', 'az'];
+console.log(letter.filter(item => item.length > 5))
