@@ -63,3 +63,14 @@
 //Здесь я походу немного перестарался :)
 
 // ____________________item_9___________________________
+
+// let users = [ {name: 'John', id: 123, marks : 98 },
+//                 {name: 'Baba', id: 101, marks : 23 },
+//                 {name: 'John', id: 200, marks : 45 },
+//                 {name: 'Wick', id: 115, marks : 75 },]
+
+// ____________________item_10___________________________
+
+let list_numbers = [[1, 2, 3], [4, 5, 6], [7, 8, 9]];
+let upgrade_list = [].concat(list_numbers[0],list_numbers[1],list_numbers[2]);
+console.log(upgrade_list)
