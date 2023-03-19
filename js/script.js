@@ -54,9 +54,9 @@
 // console.log(letter.filter(item => item.length > 5))
 
 // ____________________item_7____________________________
-let list_numbers = [1, 2, 3, 0, 4, 5, 6];
-let result = list_numbers.filter(num => num >= 4).reduce((sum,num)=> sum + num,0)
-console.log(result)
+// let list_numbers = [1, 2, 3, 0, 4, 5, 6];
+// let result = list_numbers.filter(num => num >= 4).reduce((sum,num)=> sum + num,0)
+// console.log(result)
 
 // ____________________item_8____________________________
 // let numbers = [1, -2, 3, 0, 4, -5, 6, -11];
