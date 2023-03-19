@@ -50,5 +50,16 @@
 // console.log([5, 6, 7, 8, 9].map(item=>item**2))
 
 // ____________________item_6____________________________
-let letter = ['aaa', 'aaaqqq', 'zzzqq', 'zz', 'qsaa', 'q', 'az'];
-console.log(letter.filter(item => item.length > 5))
+// let letter = ['aaa', 'aaaqqq', 'zzzqq', 'zz', 'qsaa', 'q', 'az'];
+// console.log(letter.filter(item => item.length > 5))
+
+// ____________________item_7____________________________
+// ??????????????????????????????????????????????????????
+
+// ____________________item_8____________________________
+// let numbers = [1, -2, 3, 0, 4, -5, 6, -11];
+// let result = numbers.filter(num => num > 0 ).map(item => Math.sqrt(item))
+// console.log(result)
+//Здесь я походу немного перестарался :)
+
+// ____________________item_9___________________________
