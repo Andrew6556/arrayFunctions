@@ -39,3 +39,8 @@
 //     return second_num;
 // }
 // console.log(fibonaccis(7))
+
+// ____________________item_4____________________________
+for (let i of [3,4,-5,2,1,-5,6,465,4545,32, -2].filter(item => item > 0)){
+    console.log(i)
+} 
