@@ -25,3 +25,17 @@
 //     return numbers
 // }
 // for (let i of tyry_pyry())console.log(i);
+
+
+// ____________________item_3____________________________
+// function fibonaccis(num) {
+//     let one_num = 1;
+//     let second_num = 1;
+//     for (let i = 3; i <= num; i++) {
+//         let result = one_num + second_num;
+//         one_num = second_num;
+//         second_num = result;
+//     }
+//     return second_num;
+// }
+// console.log(fibonaccis(7))
