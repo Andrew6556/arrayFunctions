@@ -76,5 +76,8 @@
 // ____________________item_10___________________________
 
 // let list_numbers = [[1, 2, 3], [4, 5, 6], [7, 8, 9]];
-// let upgrade_list = [].concat(list_numbers[0],list_numbers[1],list_numbers[2]);
-// console.log(upgrade_list)
+////Громоздкий вариант
+//// let upgrade_list = [].concat(list_numbers[0],list_numbers[1],list_numbers[2]);
+
+// простой вариант
+// console.log(list_numbers.flat())
